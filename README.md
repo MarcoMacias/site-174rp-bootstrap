@@ -1,7 +1,7 @@
 
 # Site 174 Roleplay
 
-Fiz esse site para o servidor 174 Roleplay. Fiz ele usando HTML,CSS e BOOTSTRAP.
+Fiz esse site para o servidor 174 Roleplay, usando HTML,CSS e BOOTSTRAP.
 
 ## Authors
 
