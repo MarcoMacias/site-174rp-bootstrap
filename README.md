@@ -9,4 +9,4 @@ Fiz esse site para o servidor 174 Roleplay. Fiz ele usando HTML,CSS e BOOTSTRAP.
   
 ## Link para visualizar
 
-- [@Acessar](https://marcomacias.github.io/site-174rp-bootstrap/)
+- [Acessar](https://marcomacias.github.io/site-174rp-bootstrap/)
